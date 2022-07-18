@@ -1,3 +1,19 @@
+/*
+Problem:
+Words that contain many consecutive consonants, like "schtschurowskia", are generally considered somewhat hard to pronounce.
+
+We say that a word is hard to pronounce if it contains 44 or more consonants in a row; otherwise it is easy to pronounce. For example, "apple" and "polish" are easy to pronounce, but "schtschurowskia" is hard to pronounce.
+
+You are given a string SS consisting of NN lowercase Latin characters. Determine whether it is easy to pronounce or not based on the rule above — print YES if it is easy to pronounce and NO otherwise.
+
+For the purposes of this problem, the vowels are the characters \{a, e, i, o, u\}{a,e,i,o,u} and the consonants are the other 2121 characters.
+
+
+Link: https://www.codechef.com/submit/EZSPEAK?tab=statement
+ 
+ */
+
+
 /* package codechef; // don't place package name! */
 
 import java.util.*;
